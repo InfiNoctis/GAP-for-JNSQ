@@ -5,7 +5,8 @@ by InfiNoctis
 GAP for JNSQ adds adds aircraft milestones and missions.
 This mod is aimed for use with JNSQ and Kerbal Konstructs only.
 
-For detailed information and to ask questions visit: ksp forum
+For detailed information and to ask questions visit:
+https://forum.kerbalspaceprogram.com/index.php?/topic/198338-181-110x-contract-pack-gap-for-jnsq-missionpack-with-milestones-airline-and-rescue-missions/
 
 This mod is using major parts of the original GAP mod : 
 https://forum.kerbalspaceprogram.com/index.php?/topic/129208-contract-pack-giving-aircraft-a-purpose-gap-161-milestones-air-flights-coast-guard/
