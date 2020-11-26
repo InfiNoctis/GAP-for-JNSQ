@@ -13,7 +13,7 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/129208-contract-pack-givin
 Features:
 
 	* Milestones to complete and to unlock all the other missions.
-	* Airline flights to different Airports on Kerbal
+	* Airline flights to different Airports on Kerbin
 	* Coastguard Missions
 	* Air Freight Missions
 
