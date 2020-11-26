@@ -20,11 +20,11 @@ Features:
 Dependencies: 
 	
 	* Module Manager: 
-	  https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-110x-module-manager-414-july-7th-2020-locked-inside-edition/&tab=comments#comment-720814
+	  https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-110x-module-manager-414-july-7th-2020-locked-inside-edition/
 	* Contract Configurator: 
-	  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/&tab=comments#comment-1554773
+	  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/
 	* JNSQ: 
 	  https://forum.kerbalspaceprogram.com/index.php?/topic/184880-181-jnsq-090-03-feb-2020/
 	* Kerbal Konstructs: 
-	  https://forum.kerbalspaceprogram.com/index.php?/topic/151818-181-kerbal-konstructs-18115-15dec2019/&tab=comments#comment-2845610
+	  https://forum.kerbalspaceprogram.com/index.php?/topic/151818-181-kerbal-konstructs-18115-15dec2019/
 	
