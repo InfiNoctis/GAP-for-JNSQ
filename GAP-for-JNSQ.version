@@ -1,26 +1,26 @@
 {
-     "NAME":"Contract Pack: GAP for JNSQ",
-	 "URL":"https://github.com/InfiNoctis/GAP-for-JNSQ",
-	 "DOWNLOAD":"https://github.com/InfiNoctis/GAP-for-JNSQ/releases",
-     "CHANGE_LOG_URL":"https://github.com/InfiNoctis/GAP-for-JNSQ/blob/main/CHANGELOG.txt",
-     "GITHUB":{
-         "USERNAME":"InfiNoctis",
-         "REPOSITORY":"GAP-for-JNSQ",
+    "NAME":"Contract Pack: GAP for JNSQ",
+    "URL":"https://github.com/InfiNoctis/GAP-for-JNSQ/raw/main/GAP-for-JNSQ.version",
+    "DOWNLOAD":"https://github.com/InfiNoctis/GAP-for-JNSQ/releases",
+    "CHANGE_LOG_URL":"https://github.com/InfiNoctis/GAP-for-JNSQ/blob/main/CHANGELOG.txt",
+    "GITHUB":{
+        "USERNAME":"InfiNoctis",
+        "REPOSITORY":"GAP-for-JNSQ",
      },
      "VERSION":{
-         "MAJOR":1,
-         "MINOR":0,
-         "PATCH":1,
-         "BUILD":0
+        "MAJOR":1,
+        "MINOR":0,
+        "PATCH":1,
+        "BUILD":0
      },
      "KSP_VERSION":{
-         "MAJOR":1,
-         "MINOR":10,
-         "PATCH":1
+        "MAJOR":1,
+        "MINOR":10,
+        "PATCH":1
      },
      "KSP_VERSION_MIN":{
-         "MAJOR":1,
-         "MINOR":8,
-         "PATCH":1
+        "MAJOR":1,
+        "MINOR":8,
+        "PATCH":1
      }
  } 
