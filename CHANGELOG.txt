@@ -1,5 +1,8 @@
 CHANGELOG:
 
+11/26/20 GAP 1.0.3
+-fixed ModuleManager Warnings
+
 11/26/20 GAP 1.0.2
 - .ver fix for CKAN
 - updated readme
