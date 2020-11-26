@@ -1,3 +1,4 @@
+![JNSQ](https://imgur.com/gFbBEyh.png)
 # Contract Pack: GAP-for-JNSQ
 by InfiNoctis
 
