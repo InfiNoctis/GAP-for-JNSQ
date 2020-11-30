@@ -4,13 +4,13 @@ CHANGELOG:
 -added missing logos for SSI aerospace
 -clearified some missiongoals in the milestones
 
-11/26/20 GAP 1.0.3
+11/26/20 GAP for JNSQ 1.0.3
 -fixed ModuleManager Warnings
 
-11/26/20 GAP 1.0.2
+11/26/20 GAP for JNSQ 1.0.2
 - .ver fix for CKAN
 - updated readme
 
-11/26/20 GAP 1.0.1
+11/26/20 GAP for JNSQ 1.0.1
 - inital release
 - added CHANGELOG.txt
